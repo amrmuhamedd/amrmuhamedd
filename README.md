@@ -20,6 +20,7 @@ to see more about me please visit my [portfolio](https://www.amrmohamed.ml)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>        
+<code><img height="20" src="https://laravel.com/img/logomark.min.svg"></code>        
 
 
 <a href="https://github.com/amrmuhamedd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrmuhamedd&layout=compact&theme=buefy&hide_border=true" /></a> 
