@@ -5,7 +5,10 @@ I'm a self-taught passionate Full stack developer from Egypt
 
 **About me**
 
-- 💼 Full stack Engineer
+- 💼 Self-taught Web developer 
+Write about #javascript and web tech 
+hope to join fang companies 😵
+#Geek
 
 
 
