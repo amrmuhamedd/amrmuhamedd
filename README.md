@@ -7,10 +7,10 @@ I'm a self-taught passionate Full stack developer from Egypt
 
 - 💼 Self-taught Web developer 
 use javascript and php web tech to build great things
-frontend use react js and in back use node js
+frontend use react js  && angular and in back use node js 
 
 
-
+to see more about me please visit my [portfolio](https://www.amrmohamed.ml)
 
 
 **Languages and Tools:**  
