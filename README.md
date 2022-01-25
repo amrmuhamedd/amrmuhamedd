@@ -6,8 +6,8 @@ I'm a self-taught passionate Full stack developer from Egypt
 **About me**
 
 - 💼 Self-taught Web developer 
-Write about #javascript and web tech 
-hope to join fang companies 😵
+use javascript and php web tech to build great things
+frontend use react js and in back use node js
 #Geek
 
 
