@@ -23,6 +23,6 @@ to see more about me please visit my [portfolio](https://www.amrmohamed.ml)
 <code><img height="20" src="https://laravel.com/img/logomark.min.svg"></code>        
 
 
-<a href="https://github.com/amrmuhamedd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrmuhamedd&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/amrmuhamedd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrmuhamedd&theme=buefy&hide_border=true" /></a> 
 
 
