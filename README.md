@@ -1,4 +1,4 @@
-<img src = "hellow.jpg" alt = "image" />
+<img src = "hellow.jpg" alt = "image" width = "100%"/>
 <br />
 
 I'm a self-taught passionate Full stack developer from Egypt
