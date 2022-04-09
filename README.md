@@ -11,23 +11,41 @@ I always keep the best code quality with bug-free, best app performance and long
 
  My Core Skills and Experience:
 -- Html , Css
+<br />
 -- JavaScript
+<br />
 --typescript
+<br />
 -- React js 
+<br />
 -- good knowledge in OOP, Algorithms and Data Structures
+<br />
 -- Familiar with popular design patterns
+<br />
 -- Geolocation: Google Maps
+<br />
 -- Chat implementation using Socket.io
+<br />
 -- Node js
+<br />
 -- Nest js 
+<br />
 -- MySQL, PostgreSQL, Mongodb
+<br />
 -- mongo Geospatial
+<br />
 -- aggregation frame work (Mongodb)
+<br />
 -- basic of microservices 
+<br />
 -- amazon web services
+<br />
 -- build Payment service with (stripe api - paymob )
+<br />
 -- understanding of REST/JSON
+<br />
 -- distributed systems design
+<br />
 -- Code versioning tools: Git using Bitbucket, Github
 
 
