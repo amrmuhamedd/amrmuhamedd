@@ -5,9 +5,30 @@ I'm a self-taught passionate Full stack developer from Egypt
 
 **About me**
 
-- 💼 Self-taught Web developer 
-use javascript and php web tech to build great things
-frontend use react js  && angular and in back use node js 
+- 💼 I'm a Full-stack web developer using React js in Front end and Node js in backend 
+
+I always keep the best code quality with bug-free, best app performance and long term maintenance.
+
+ My Core Skills and Experience:
+-- Html , Css
+-- JavaScript
+--typescript
+-- React js 
+-- good knowledge in OOP, Algorithms and Data Structures
+-- Familiar with popular design patterns
+-- Geolocation: Google Maps
+-- Chat implementation using Socket.io
+-- Node js
+-- Nest js 
+-- MySQL, PostgreSQL, Mongodb
+-- mongo Geospatial
+-- aggregation frame work (Mongodb)
+-- basic of microservices 
+-- amazon web services
+-- build Payment service with (stripe api - paymob )
+-- understanding of REST/JSON
+-- distributed systems design
+-- Code versioning tools: Git using Bitbucket, Github
 
 
 to see more about me please visit my [portfolio](https://www.amrmohamed.ml)
