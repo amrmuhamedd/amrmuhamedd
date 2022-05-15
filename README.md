@@ -5,11 +5,14 @@ I'm a self-taught passionate Full stack developer from Egypt
 
 **About me**
 
-- 💼 I'm a Full-stack web developer using React js in Front end and Node js in backend 
+- 💼 Back-end developer with 2 years of experience in software development. I have worked across development stages, frontend, and backend. I also have good experience with cloud services, especially AWS. I’m a smart worker and a good team player. I’m passionate about challenging projects and solving business problems using programming skills.
 
 I always keep the best code quality with bug-free, best app performance and long term maintenance.
-
+<br/>
+I am also always open to new opportunities all over the world, so don't hesitate to contact me.
+<br/>
  My Core Skills and Experience:
+ <br/>
 -- Html , Css
 <br />
 -- JavaScript
