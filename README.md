@@ -31,6 +31,9 @@ I am also always open to new opportunities all over the world, so don't hesitate
 <br />
 -- Node js
 <br />
+<br />
+-- go lang
+<br />
 -- Nest js 
 <br />
 -- MySQL, PostgreSQL, Mongodb
