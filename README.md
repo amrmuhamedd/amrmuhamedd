@@ -19,15 +19,12 @@
     Good knowledge in OOP, algorithms, and data structures
   </li>
   <li>
-    
     Familiar with popular design patterns
   </li>
   <li>
- 
     Geolocation: Google Maps
   </li>
   <li>
- 
     Chat implementation using Socket.io
   </li>
   <li>
