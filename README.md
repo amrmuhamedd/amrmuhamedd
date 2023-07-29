@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working as MERN stack developer<br>🌱 I’m currently learning Data structure and algorithms<br>
+I am a dedicated and experienced Full Stack Developer with three years of expertise in
+software development. Throughout my career, I have successfully worked across various stages
+of development, specializing in both frontend and backend technologies. I have a strong
+proficiency in utilizing cloud services, particularly AWS, to create scalable and efficient
+solutions.
+I excel in collaborative environments and thrive as a proactive team member, leveraging my
+programming skills to solve complex business problems. I am driven by challenging projects
+and strive to deliver exceptional results. My focus on code quality ensures bug-free
+applications, optimal performance, and long-term maintainability.
+With a proven track record of delivering high-quality software solutions, I am eager to
+contribute my technical proficiency and problem-solving abilities to your organization. I am
+excited about opportunities to leverage my skills and make a significant impact in driving
+innovation and fostering growth.
+
 
 
 ## 🌐 Socials:
