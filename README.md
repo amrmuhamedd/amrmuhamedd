@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a dedicated and experienced Full Stack Developer with three years of expertise in
 software development. Throughout my career, I have successfully worked across various stages
 of development, specializing in both frontend and backend technologies. I have a strong
