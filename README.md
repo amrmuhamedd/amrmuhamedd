@@ -1,4 +1,4 @@
-<div align ="center"> <img width ="100%" src="giphy (1).gif" alt="https://linkedin.com/in/rajatsoni08" /> </div>
+<div align ="center"> <img width ="100%" src="Logo.gif" alt="https://linkedin.com/in/rajatsoni08" /> </div>
 
 #  About Me:
 I am a dedicated and experienced Full Stack Developer with three years of expertise in
