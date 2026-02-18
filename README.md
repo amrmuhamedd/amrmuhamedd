@@ -1,23 +1,123 @@
-<div align ="center"> <img width ="100%" src="Logo.gif" alt="https://linkedin.com/in/rajatsoni08" /> </div>
+<div align="center">
 
-# 💫 About Me:
-I'm Amr Mohamed, a Backend-Focused Software Engineer with a unique path into technology. Although I initially studied Dentistry, I discovered my passion for software in 2017 and transitioned into a full-time engineering career.<br><br>With over 5 years of professional experience, I’ve built scalable platforms across healthcare, fintech, edtech, and no-code industries. My expertise lies in backend development, system performance, and clean architecture, and I’ve worked on projects ranging from healthcare management systems to database optimization and high-traffic web applications.<br><br>I’m skilled in Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, and CI/CD pipelines, with a development approach rooted in OOP, SOLID principles, microservices, and clean architecture.<br><br>Passionate about solving complex problems and optimizing systems, I’m currently expanding my cloud expertise by pursuing the AWS Solution Architect Associate certification to design reliable and cost-efficient architectures.<br><br>🚀 I’m looking for opportunities where I can leverage my backend and cloud skills to deliver impactful, business-aligned solutions for dynamic teams.<br><br>📩 Let’s connect: amrmuhmedd@gmail.com
+# Amr Mohamed  
+### Senior Backend Engineer | AWS Certified Solutions Architect – Associate
 
+Designing scalable backend systems, cloud-native architectures, and high-performance production platforms.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amrmuhamedd/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amrmuhmedd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amrmuhmedd@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amrmuhamedd&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amrmuhamedd&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrmuhamedd&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amrmuhamedd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amrmuhamedd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I’m Amr Mohamed — a Senior Backend Engineer with 5+ years of experience building and scaling production-grade systems across fintech, healthcare, edtech, and SaaS.
+
+Although I began my academic journey in Dentistry, I transitioned into software engineering in 2017 and have since specialized in backend architecture, performance optimization, and cloud infrastructure.
+
+I focus on designing systems that are:
+
+- Scalable
+- Maintainable
+- Observable
+- Cost-efficient
+- Aligned with business impact
+
+I don’t just build features — I design systems meant to last.
+
+---
+
+## 🏗 Core Expertise
+
+### Backend Engineering
+- Node.js
+- NestJS
+- TypeScript
+- RESTful APIs
+- Modular Monolith Architecture
+- Microservices
+- Domain-Driven Design
+- Clean Architecture (SOLID principles)
+
+### Databases & Performance
+- PostgreSQL (advanced indexing, query optimization)
+- MongoDB
+- Redis (caching & real-time performance)
+- Database schema design for analytics-heavy systems
+- Performance tuning & bottleneck identification
+
+### Cloud & DevOps
+- AWS Certified Solutions Architect – Associate (SAA-C03)
+- EC2, RDS, S3, IAM, VPC
+- CloudWatch & system observability
+- Docker (multi-stage production builds)
+- CI/CD pipelines
+- Nginx reverse proxy configuration
+- Infrastructure-aware backend design
+
+---
+
+## 🚀 Selected Engineering Work
+
+### 🦷 Dentacares – Cloud-Based Practice Management System  
+Founder & Backend Architect
+
+- Designed scalable backend using NestJS & PostgreSQL
+- Implemented role-based access control (RBAC)
+- Architected appointment scheduling & patient record systems
+- Applied repository pattern with clean architecture
+- Optimized database queries for reporting & analytics
+- Containerized backend using Docker for production deployment
+- Designed system with future scalability in mind
+
+---
+
+### 💳 Fintech Payment Integrations
+
+- Developed high-performance WooCommerce payment plugins
+- Reduced operational SMS costs by 25% via URL shortener system
+- Maintained stable production plugins used by merchants
+- Improved API reliability and documentation clarity
+- Ensured backward compatibility with platform updates
+
+---
+
+### 🏥 Healthcare Platforms
+
+- Built patient management systems with secure workflows
+- Designed payment integrations and access control logic
+- Optimized heavy database queries & cron jobs
+- Reduced downtime and improved system performance
+
+---
+
+## 🧠 Engineering Principles
+
+- Design for scalability from day one  
+- Measure before optimizing  
+- Prefer simplicity over unnecessary abstraction  
+- Maintain clean boundaries between domains  
+- Align technical decisions with business outcomes  
+
+---
+
+## 🏆 Certifications
+
+- AWS Certified Solutions Architect – Associate (SAA-C03)
+- Advanced certifications in:
+  - System Design
+  - Node.js & TypeScript
+  - Clean Code & Architecture
+  - SQL & MongoDB
+
+---
+
+## 🌍 Let’s Connect
+
+- 🌐 Website: https://amrmuhmedd.com
+- 💼 LinkedIn: https://linkedin.com/in/amrmuhamedd
+- 📧 Email: amrmuhmedd@gmail.com
+
+---
+
+> Building backend systems that scale with confidence.
